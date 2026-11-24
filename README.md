@@ -18,9 +18,9 @@ Based in Bandung, Indonesia · 8 years shipping production software across logis
 ## Selected repositories
 
 - [`pabriq`](https://github.com/iqbal-codes/pabriq) — production SaaS for made-to-order workshops
-- [`agentic-afk`](https://github.com/iqbal-codes/agentic-afk) — autonomous background agent fleet
 - [`agent-clave`](https://github.com/iqbal-codes/agent-clave) — governed agent runtime for internal operations
-- [`labq-starter-kit`](https://github.com/iqbal-codes/labq-starter-kit) — multi-tenant internal tools platform
+- [`labq-modules`](https://github.com/iqbal-codes/labq-modules) — multi-tenant internal tools platform, shell + remote modules
+- [`monorepo-boilerplate`](https://github.com/iqbal-codes/monorepo-boilerplate) — TypeScript baseline stack: TanStack Router, Hono, tRPC, Drizzle, Better Auth
 - [`software-factory-template`](https://github.com/iqbal-codes/software-factory-template) — project template with agentic engineering built in
 - [`iqbal-codes.github.io`](https://github.com/iqbal-codes/iqbal-codes.github.io) — my portfolio site
 
